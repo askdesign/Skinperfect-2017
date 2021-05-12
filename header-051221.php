@@ -47,7 +47,7 @@
                 <i class="fa fa-times close"></i>
                 <h2>Please select a location</h2>
                 <ul>
-                    <li><a href="https://skinperfect.myonlineappointment.com/Booking/?sid=0&guid=55023e97-649f-4e23-b0d4-a745336479d7" target="_blank">Skin Perfect MD (Gahanna)</a></li>
+                    <li><a href="http://www.secure-booker.com/skinperftwo/MakeAppointment/Search.aspx" target="_blank">Skin Perfect MD (Gahanna)</a></li>
                     <li><a href="http://www.secure-booker.com/skinperfectoasis/MakeAppointment/Search.aspx" target="_blank">Skin Perfect Oasis (Naples)</a></li>
                 </ul>
             </div>
