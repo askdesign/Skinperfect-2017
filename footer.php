@@ -28,9 +28,9 @@
                 <div class="col-1-4">
                     <div class="connect">
                         <p>Connect</p>
-                        <a href="https://www.facebook.com/SkinPerfectClinic/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri() ?>/images/connect-facebook.png" alt="Facebook" border="0" /></a>
+                        <a href="https://www.facebook.com/SkinPerfectSpas" target="_blank"><img src="<?php echo get_stylesheet_directory_uri() ?>/images/connect-facebook.png" alt="Facebook" border="0" /></a>
                         <a href="https://www.youtube.com/user/SkinPerfectTV" target="_blank"><img src="<?php echo get_stylesheet_directory_uri() ?>/images/connect-youtube.png" alt="YouTube" border="0" /></a>
-                        <a href="https://www.instagram.com/skinperfectclinic/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri() ?>/images/connect-instagram.png" alt="Instagram" border="0"/></a>
+                        <a href="https://www.instagram.com/skinperfectspas/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri() ?>/images/connect-instagram.png" alt="Instagram" border="0"/></a>
                     </div>
                 </div>
             </div><!-- .menu -->
