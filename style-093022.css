@@ -407,8 +407,8 @@ a:visited {
 
 #navbar .logo {
     position: absolute;
-    left: 20px;
-    top: 47%;
+    left: 40px;
+    top: 50%;
     -webkit-transform: translateY(-50%);
     -moz-transform: translateY(-50%);
     transform: translateY(-50%);

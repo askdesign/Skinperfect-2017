@@ -74,7 +74,7 @@
                     <div class="line line-1"></div>
                     <div class="line line-2"></div>
                 </div>
-                <img class="logo" src="<?php echo get_stylesheet_directory_uri() ?>/images/SkinPerfecrMD_Teal-Logo-PMS326-308x41.png" alt="Skin Perfect" />
+                <img class="logo" src="<?php echo get_stylesheet_directory_uri() ?>/images/SPLogo326-308x53.png" alt="Skin Perfect" />
                 <div class="menu">
                     <?php
                         wp_nav_menu(array(

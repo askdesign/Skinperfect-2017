@@ -35,7 +35,7 @@
                 </div>
             </div><!-- .menu -->
             <div class="logo-copyright">
-                <img class="logo" src="<?php echo get_stylesheet_directory_uri() ?>/images/SkinPerfecrMD_white-308x41.png" alt="Skin Perfect Image Wellness Spa" />
+                <img class="logo" src="<?php echo get_stylesheet_directory_uri() ?>/images/SPLogoWhite-308x53.png" alt="Skin Perfect Image Wellness Spa" />
                 <p class="copyright">&copy; 2012-<?php echo date("Y") ?> Skin Perfect Clinic. All rights reserved.</p>
             </div><!-- .logo-copyright -->
         </div><!-- #footer-content.grid -->
