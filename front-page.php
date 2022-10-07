@@ -19,7 +19,7 @@
 	</div>
  -->	<div class="mobileimagecontainer" style="width: 50%; display: inline-block;">
 		<center>
-			<a href="/specials/" style="text-decoration: none!important;"><img class="mobileimage" src="https://skinperfectspas.com/wp-content/uploads/2017/12/specials1.png" style="width: 100%; max-width: 300px; -webkit-box-shadow: 0px 0px 40px -16px rgba(0,0,0,0.75); -moz-box-shadow: 0px 0px 40px -16px rgba(0,0,0,0.75); box-shadow: 0px 0px 40px -16px rgba(0,0,0,0.75);">
+			<a href="https://store.skinperfectspas.com/specials" style="text-decoration: none!important;"><img class="mobileimage" src="https://skinperfectspas.com/wp-content/uploads/2017/12/specials1.png" style="width: 100%; max-width: 300px; -webkit-box-shadow: 0px 0px 40px -16px rgba(0,0,0,0.75); -moz-box-shadow: 0px 0px 40px -16px rgba(0,0,0,0.75); box-shadow: 0px 0px 40px -16px rgba(0,0,0,0.75);">
 			<h1 style="padding-top: 8px!important; font-size: 20px; color: #13ABB6;">Specials</h1></a>
 		</center>
 	</div>
