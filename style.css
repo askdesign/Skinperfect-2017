@@ -376,6 +376,12 @@ a:visited {
 
 /* --- ASK Design added the SPU classes --- */
 
+/* --- columns --- */
+.one-third {
+	width:33%;
+    float:left;
+}
+
 #secondary-navbar ul.secondary-nav li.spu {
     background: #006196 url(https://skinperfectspas.com/wp-content/uploads/2019/05/spu-logo-5.jpg) no-repeat scroll 0 0;
 	background: #006196 url(https://skinperfectspas.com/wp-content/uploads/2019/07/FINAL_SkinPerfectAcademyWHITE-bluebox-297x81.jpg) no-repeat scroll 0 center;
@@ -1817,7 +1823,15 @@ img {
 	.membership-box {
     background-position: 0px 304px;
 	}
-
+	/* --- columns --- */
+	.one-third {
+		width:100%;
+		float:none;
+		text-align:center;
+	}
+    .services a.service {
+        width: 100%;
+    }
 }
 
 @media screen and (max-width: 1266px) {

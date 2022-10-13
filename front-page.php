@@ -32,13 +32,14 @@
 </div>
 
         <div class="services">
-            <a href="/skincare/skincare-services/" class="service"><?php
-                    dynamic_sidebar("homepage-skincare-services");
-                ?></a><a href="/skincare/skincare-products/" class="service"><?php
-                    dynamic_sidebar("homepage-skincare-products");
-                ?></a><a href="/enhancement-services/" class="service"><?php
-                    dynamic_sidebar("homepage-enhancement-services");
-                ?></a>
+            <div class="one-third">
+            <a href="/skincare/skincare-services/" class="service"><img alt="Skincare Services: Treatments, Peels, Facials, Analysis" class="attachment-full" style="max-width: 426px;" src="https://skinperfectspas.com/wp-content/uploads/2022/10/home-skincare-services-box.jpg"></a></div>
+
+            <div class="one-third">
+            <a href="/skincare/skincare-products/" class="service"><img alt="Skincare Products: SP Med, SP Pro, SP Organix, Analysis" class="attachment-full" style="max-width: 426px;" src="https://skinperfectspas.com/wp-content/uploads/2022/10/home-skincare-products-box-1.jpg"></a></div>
+            
+            <div class="one-third">
+            <a href="/enhancement-services/" class="service"><img alt="Enhancement Services: Tan, Tint, Wax, Lashes, Permanent Make Up" class="attachment-full" style="max-width: 426px;" src="https://skinperfectspas.com/wp-content/uploads/2022/10/home-enhancement-services-box.jpg"></a></div>
         </div>
 
 
