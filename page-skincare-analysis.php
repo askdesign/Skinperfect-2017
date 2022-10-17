@@ -1,15 +1,9 @@
 <?php get_header(); ?>
 
-<div class="analysis-sidebar col-1-3">
-    <?php
-    // add sidebar
-    dynamic_sidebar("analysis-sidebar");
-    ?>
-</div>
 
 <?php if (have_posts()) : ?>
 
-<div class="col-2-3">
+<div class="col-3-3">
 
     <?php /* Start the Loop */ ?>
     <?php while (have_posts()) : the_post(); ?>
