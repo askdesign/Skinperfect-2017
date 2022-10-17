@@ -31,15 +31,16 @@
 	</div>
 </div>
 
+
         <div class="services">
             <div class="one-third">
             <a href="/skincare/skincare-services/" class="service"><img alt="Skincare Services: Treatments, Peels, Facials, Analysis" class="attachment-full" style="max-width: 426px;" src="https://skinperfectspas.com/wp-content/uploads/2022/10/home-skincare-services-box.jpg"></a></div>
 
             <div class="one-third">
-            <a href="/skincare/skincare-products/" class="service"><img alt="Skincare Products: SP Med, SP Pro, SP Organix, Analysis" class="attachment-full" style="max-width: 426px;" src="https://skinperfectspas.com/wp-content/uploads/2022/10/home-skincare-products-box-1.jpg"></a></div>
+            <a href="https://store.skinperfectspas.com/" class="service"><img alt="Skincare Products: SP Med, SP Pro, SP Organix, Analysis" class="attachment-full" style="max-width: 426px;" src="https://skinperfectspas.com/wp-content/uploads/2022/10/home-skincare-products-box-1.jpg"></a></div>
             
             <div class="one-third">
-            <a href="/enhancement-services/" class="service"><img alt="Enhancement Services: Tan, Tint, Wax, Lashes, Permanent Make Up" class="attachment-full" style="max-width: 426px;" src="https://skinperfectspas.com/wp-content/uploads/2022/10/home-enhancement-services-box.jpg"></a></div>
+            <a href="/enhancement-services/" class="service"><img alt="Enhancement Services: Tan, Tint, Wax, Lashes, Permanent Make Up" class="attachment-full" style="max-width: 426px;" src="https://skinperfectspas.com/wp-content/uploads/2022/10/home-enhancement-services-box-1.jpg"></a></div>
         </div>
 
 
