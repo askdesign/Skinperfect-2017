@@ -28,7 +28,6 @@
     <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <?php wp_head(); ?>
-
 </head>
 
 <?php
@@ -45,11 +44,11 @@
         <div id="overlay">
             <div class="container">
                 <i class="fa fa-times close"></i>
-                <h2>Please Call!</h2>
+                <h2>Please select a location</h2>
                 <ul>
-                    <li><a href="https://skinperfect.myonlineappointment.com/Booking/?sid=0&guid=55023e97-649f-4e23-b0d4-a745336479d7" target="_blank">Skin Perfect MD (Gahanna)</a></li>
-                    <!-- <li><a href="http://www.secure-booker.com/skinperfectoasis/MakeAppointment/Search.aspx" target="_blank">Skin Perfect Oasis (Naples)</a></li> -->
-                    <li>Call us to schedule an appointment at <a href="tel:614-762-6623">614-762-6623</a></li>
+                    <li><a href="https://skinperfect.myonlineappointment.com/Booking/?sid=0&guid=55023e97-649f-4e23-b0d4-a745336479d7" target="_blank">Skin Perfect Spas (Gahanna)</a></li>
+                
+                    <li><a href="http://www.secure-booker.com/skinperfectoasis/MakeAppointment/Search.aspx" target="_blank">Skin Perfect Oasis (Naples)</a></li>
                 </ul>
             </div>
         </div>
@@ -105,9 +104,13 @@
     <div class="page-header">
         <div class="page-header-content">
             <?php
-                if (has_post_thumbnail()) {
-                    echo '<img class="header-image" src="' . get_the_post_thumbnail_url($post->ID) . '" />';
-                }
+            	// get the header for the blog index page
+            	if (is_home() && get_option('page_for_posts') ) 
+            	{
+				    $img = wp_get_attachment_image_src(get_post_thumbnail_id(get_option('page_for_posts')),'full'); 
+    				$featured_image = $img[0];
+    				echo '<img class="header-image" src="' . $featured_image . '" />'; 
+				}
             ?>
         </div><!-- .page-header-content -->
     </div><!-- .page-header -->
