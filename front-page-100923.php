@@ -65,15 +65,23 @@
         </div><!-- .cmp-events -->
 
         <div class="locations">
-            <div class="col-1-2">
-                <p class="instruction" style="text-align:center">VISIT OR CALL!</p>
+            <div class="col-1-3">
+                <p class="instruction">VISIT OR CALL ONE<br>
+				OF OUR LOCATIONS!</p>
             </div>
-            <div class="col-1-2 location">
+            <div class="col-1-3 location">
                     <p>GAHANNA</p>
                     <p>614.846.8420</p>
                     <p>725 Buckles Court N.</p>
 					<p>Gahanna, OH  43230</p>
             </div>
+           <div class="col-1-3 location">
+                    <p>NAPLES</p>
+                    <p>239.262.5110</p>
+                    <p>6306 Trail Boulevard N.</p>
+					<p>Naples, FL  34108</p>
+
+           </div>
         </div><!-- .locations -->
 
         <div class="testimonial-section">
