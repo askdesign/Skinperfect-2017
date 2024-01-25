@@ -65,21 +65,14 @@
         </div><!-- .cmp-events -->
 
         <div class="locations">
-            <div class="col-1-3">
+            <div class="col-1-2">
                 <p class="instruction" style="text-align:center">VISIT OR CALL!</p>
             </div>
-            <div class="col-1-3 location">
+            <div class="col-1-2 location">
                     <p>GAHANNA</p>
-                    <p>614.762.6623 </p>
-                    <p>725 Buckles Court N., Suite 200</p>
+                    <p>614.846.8420</p>
+                    <p>725 Buckles Court N.</p>
 					<p>Gahanna, OH  43230</p>
-            </div>
-            <div class="col-1-3 location">
-                    <p>NAPLES</p>
-                    <p>614.762.6623</p>
-                    <p>Sola Suites</p>
-                    <p>2950 Tamiami Trail N. #5, Suite 27</p>
-					<p>Naples, FL  34103</p>
             </div>
         </div><!-- .locations -->
 
